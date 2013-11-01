@@ -1,0 +1,88 @@
+8
+
+dir
+5
+https://slickfx.googlecode.com/svn/trunk/slickfx/javadoc/mdes/slick/animation/test/class-use
+https://slickfx.googlecode.com/svn
+
+
+
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+
+svn:special svn:externals svn:needs-lock
+
+TestFx.html
+file
+
+
+
+
+2008-01-25T03:32:59.265625Z
+1c1da4fa6121b100a9cb5c634066b0a8
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+TestSmoothUI.UIButton.html
+file
+
+
+
+
+2008-01-25T03:32:59.265625Z
+1d62bd8c79135d31f01cc3d3ce2a6dba
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+TestCompoundFx.html
+file
+
+
+
+
+2008-01-25T03:32:59.281250Z
+040408a2a33026faa1034730359a75b9
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+TestFx.MyComponent.html
+file
+
+
+
+
+2008-01-25T03:32:59.265625Z
+493404d39778e178ccbdcacca5a843af
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+TestEasing.html
+file
+
+
+
+
+2008-01-25T03:32:59.265625Z
+d02d44626c33bfb40f3dd01e1bb24346
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+TestSmoothUI.html
+file
+
+
+
+
+2008-01-25T03:32:59.265625Z
+c64ded6a963f59bc6f8ad554938d0ef5
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+

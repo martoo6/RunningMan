@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/slickfx/src/mdes/slick/animation/fx
+END
+AbstractFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/slickfx/src/mdes/slick/animation/fx/AbstractFx.java
+END
+CompoundFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/slickfx/src/mdes/slick/animation/fx/CompoundFx.java
+END
+AlphaFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/slickfx/src/mdes/slick/animation/fx/AlphaFx.java
+END
+LocationFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/slickfx/src/mdes/slick/animation/fx/LocationFx.java
+END
+SizeFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/slickfx/src/mdes/slick/animation/fx/SizeFx.java
+END
+EmptyFx.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/slickfx/src/mdes/slick/animation/fx/EmptyFx.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/slickfx/src/mdes/slick/animation/fx/package.html
+END

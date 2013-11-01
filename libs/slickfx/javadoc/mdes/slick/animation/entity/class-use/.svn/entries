@@ -1,0 +1,64 @@
+8
+
+dir
+5
+https://slickfx.googlecode.com/svn/trunk/slickfx/javadoc/mdes/slick/animation/entity/class-use
+https://slickfx.googlecode.com/svn
+
+
+
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+
+svn:special svn:externals svn:needs-lock
+
+AlphaEntity.html
+file
+
+
+
+
+2008-01-25T03:32:59.203125Z
+40ec1f7664ac74850e053fac5a9b2a4a
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+LocationEntity.html
+file
+
+
+
+
+2008-01-25T03:32:59.203125Z
+06dc2dcca5cb2c046ee334bd0c88d133
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+SizeEntity.html
+file
+
+
+
+
+2008-01-25T03:32:59.187500Z
+b566af06b9c055d524f8380c5b27691a
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
+FxEntity.html
+file
+
+
+
+
+2008-01-25T03:32:59.203125Z
+0b2c7ad55263806e37d62b213961c3a7
+2008-01-25T03:45:34.226162Z
+5
+dave.des
+
